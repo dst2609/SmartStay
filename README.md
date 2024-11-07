@@ -1,7 +1,12 @@
 # SmartStay
 <p> This repo contains the code and necessary files for the final 256 project</p>
 
+## USE
+<p>Always communicate before commiting to main branch</p>
+<p>Never edit anything in the repository on web</p>
+
 ## File structure
+```plaintext
 SmartStay/
 │
 ├── src/                   # Source code files
