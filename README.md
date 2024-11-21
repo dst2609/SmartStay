@@ -16,7 +16,8 @@ SmartStay/
 │   ├── Project proposal.pdf         
 |
 ├── data/                  # Data for hotel_reviews (not on github)
-│   ├── hotel_reviews.csv     # csv file containing reviews, converted
+│   ├── hotel_reviews.csv                 # csv file containing reviews, converted
+|   |── combined_filtered_reviews.csv     # csv file containing processed and filtered reviews
 │
 ├── .gitignore             # Git ignore file
 ├── README.md              # Main project README
