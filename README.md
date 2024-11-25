@@ -23,6 +23,11 @@ network techniques. </p>
 | GPU | Nvidia RTX 4080 Super 16GB     |
 | Memory    | Corsair 64GB DDR5 6000MT/s    |
 
+| MacbookPro (secondary)    | product |
+| :--------: | :-------: |
+| Chip  | Apple M2 Max    |
+| GPU | 10 core     |
+| Memory    | 32 GB    |
 
 
 ## USE
