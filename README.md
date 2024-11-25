@@ -8,6 +8,8 @@ network techniques. </p>
 ### Data
 <p> The dataset is a very large-scale hotel recommendation dataset. Available: https://github.com/Diego999/HotelRec </p>
 
+<p> Filtered data link: https://drive.google.com/drive/folders/17TIW5lzr7n7L6PUetc57WRoDBAKn-XXJ?usp=sharing </p>
+
 ### Algorithms
 <p> We have used SVD as baseline model and Factorization Machines (FM), Neural Collaborative Filtering (NCF), and Hybrid system for personalized recommendation. </p>
 
