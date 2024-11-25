@@ -16,8 +16,9 @@ network techniques. </p>
 
 ### System information
 <p> Main system used is as follows</p>
+
 | Windows 11 (primary)    | product |
-| -------- | ------- |
+| :--------: | :-------: |
 | CPU  | AMD Ryzen 7 9800x3D    |
 | GPU | Nvidia RTX 4080 Super 16GB     |
 | Memory    | Corsair 64GB DDR5 6000MT/s    |
