@@ -39,7 +39,10 @@ network techniques. </p>
 SmartStay/
 │
 ├── src/                   # Source code files
-│   ├── SmartStay.ipynb       # Main Python notebook         
+│   ├── SmartStay.ipynb       # Main Python notebook with data processing
+│   ├── FM.ipynb              # Python notebook Factorization Machine
+│   ├── Hybrid.ipynb          # Python notebook Hybrid recommendation
+│   ├── NCF.ipynb             # Python notebook Neural Collaborative Filtering
 │   
 ├── proposal/              # Project proposal
 │   ├── Project proposal.pdf         
