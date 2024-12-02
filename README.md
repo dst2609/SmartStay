@@ -45,6 +45,9 @@ SmartStay/
 │   ├── FM.ipynb              # Python notebook Factorization Machine
 │   ├── Hybrid.ipynb          # Python notebook Hybrid recommendation
 │   ├── NCF.ipynb             # Python notebook Neural Collaborative Filtering
+│   ├── Naive Predictor.ipynb # Python notebook Naive Average Predictor
+│   ├── SVD_basic.ipynb       # Python notebook classic SVD, GridSearchCV and Finer-Split SVD
+│   ├── SVD_enhanced.ipynb    # Python notebook MF GPU version and TimeDecay MF
 │   
 ├── proposal/              # Project proposal
 │   ├── Project proposal.pdf         
